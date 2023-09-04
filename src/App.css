@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+.btn{
+  width: 100px;
+  height: 40px;
+  font-size: 25px;
+  border-radius: 5%;
+}
+/* .btn:hover{
+  background-color:rgb(222, 60, 160);
+  
+  font-weight: bold;
+} */
